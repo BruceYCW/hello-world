@@ -1,2 +1,2 @@
 # hello-world
-just use to learn
+l like code!
